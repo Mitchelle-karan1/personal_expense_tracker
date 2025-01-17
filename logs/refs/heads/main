@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 1fef6045ed4e1755a196beac0b82441d7ca08a70 Mitchelle <mitchellekaran@gmail.com> 1736918957 -0800	commit (initial): Day 1: Created main.py and initialized project structure
+1fef6045ed4e1755a196beac0b82441d7ca08a70 1fef6045ed4e1755a196beac0b82441d7ca08a70 Mitchelle <mitchellekaran@gmail.com> 1736919764 -0800	Branch: renamed refs/heads/master to refs/heads/main
+1fef6045ed4e1755a196beac0b82441d7ca08a70 3ddf3d093503c542a70695b35704c63b700ca730 Mitchelle <mitchellekaran@gmail.com> 1737046037 -0800	commit: day 2 of personal expense tracker
+3ddf3d093503c542a70695b35704c63b700ca730 1fef6045ed4e1755a196beac0b82441d7ca08a70 Mitchelle <mitchellekaran@gmail.com> 1737104515 -0800	reset: moving to HEAD^
